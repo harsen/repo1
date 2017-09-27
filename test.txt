@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is AC6A-C419
+
+ Directory of D:\Devops\Git\MyFolder
+
+09/27/2017  10:18 AM    <DIR>          .
+09/27/2017  10:18 AM    <DIR>          ..
+09/27/2017  10:18 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  80,752,365,568 bytes free
